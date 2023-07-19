@@ -1,2 +1,12 @@
-# beginner
-Beginner projects from freeCodeCourse, Colt Steele's Udemy, and self-lead experiments
+<!DOCTYPE html5>
+<html>
+  <head>
+    <title>Fountain Square Web Designs</title>
+  </head># beginner
+  <body>
+    <h1>Beginning Projects</h1>
+    <p>Beginner projects from freeCodeCourse, Colt Steele's Udemy, and self-lead experiments</p>
+    <a href="/TablePracticeUdemyHTML.html">Table Practice via Udemy</a>
+  </body>
+</html>
+
