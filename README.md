@@ -1,5 +1,4 @@
-<!DOCTYPE html5>
-<html>
+
   <head>
     <title>Fountain Square Web Designs</title>
   </head># beginner
@@ -8,5 +7,5 @@
     <p>Beginner projects from freeCodeCourse, Colt Steele's Udemy, and self-lead experiments</p>
     <a href="/TablePracticeUdemyHTML.html">Table Practice via Udemy</a>
   </body>
-</html>
+
 
